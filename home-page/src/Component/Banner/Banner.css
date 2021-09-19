@@ -1,0 +1,68 @@
+.banner {
+    background-color: var(--back-color);
+    text-align: center;
+    color: var(--white-color);
+}
+
+.title-banner {
+    padding: 115px 0px 65px;
+    font-family: "NotoSansLight", sans-serif;
+    font-size: 35px;
+}
+
+.content {
+    text-align: center;
+    background-color: var(--white-color);
+    color: var(--back-color);
+}
+
+.content img {
+    padding-top: 30px;
+}
+
+.name {
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: "NotoSansLight", sans-serif;
+}
+
+.count {
+    font-size: 80px;
+    padding: 40px 0px 58px;
+}
+
+.banner-end {
+    padding: 75px 0px 115px;
+}
+
+.text-content {
+    font-size: 20px;
+    font-family: "NotoSansLight", sans-serif;
+}
+
+.btn-banner {
+    background-color: var(--orange-color);
+    font-family: "NotoSansLight", sans-serif;
+    width: 200px;
+    line-height: 50px;
+    margin-top: 28px;
+}
+
+.banner-footer {
+    background-image: url('../../assets/img/bg-1.jpg');
+}
+
+.content-banner {
+    padding: 100px 0px 75px;
+}
+
+.content-top {
+    font-size: 35px;
+    font-family: "NotoSansMemium", sans-serif;
+}
+
+.content-bot {
+    font-family: "NotoSansLight", sans-serif;
+    margin-top: 20px;
+    font-size: 20px;
+}

@@ -1,0 +1,59 @@
+.bg-header {
+    background-image: url('../../assets/img/header.jpg');
+    background-size: cover;
+    color: var(--white-color);
+}
+
+.logo_button {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: "MyriadRegular", sans-serif;
+}
+
+.btn-right {
+    color: var(--white-color);
+}
+
+.login {
+    background-color: transparent;
+    border: 1px solid var(--white-color);
+    width: 80px;
+    line-height: 30px;
+}
+
+.join {
+    background-color: var(--orange-color);
+    border: none;
+    width: 80px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+.header_content {
+    text-align: center;
+}
+
+.text-big {
+    font-size: 3.7vw;
+    margin-top: 125px;
+    font-family: "NotoSansBold", sans-serif;
+}
+
+.text-small {
+    font-size: 20px;
+    margin-top: 20px;
+    font-family: "NotoSansLight", sans-serif;
+}
+
+.btn-content {
+    font-size: 18px;
+    line-height: 50px;
+    width: 200px;
+    margin-top: 45px;
+    margin-bottom: 100px;
+    background-color: var(--orange-color);
+    font-family: "NotoSansLight", sans-serif;
+}

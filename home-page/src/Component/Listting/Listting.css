@@ -1,0 +1,40 @@
+.title-left {
+    font-family: "NotoSansMemium", sans-serif;
+    font-size: 20px;
+}
+
+.title-listting {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 55px;
+    margin-bottom: 15px;
+}
+
+.list-content {
+    margin-bottom: 80px;
+}
+
+.list-content img {
+    width: 100%;
+}
+
+.slick-slide {
+    margin: 10px;
+}
+
+.slick-list {
+    max-height: 252px;
+}
+
+.cap-food {
+    width: 9.5vw;
+    position: absolute;
+    top: 20px;
+    font-size: 1.5vw;
+    margin-left: 20px;
+    font-family: "NotoSansMemium", sans-serif;
+}
+
+.more {
+    font-family: "Montsrrat", sans-serif;
+}

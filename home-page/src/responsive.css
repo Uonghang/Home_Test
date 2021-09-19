@@ -1,0 +1,53 @@
+/* Small devices (landscape phones, 576px and up) */
+
+@media(max-width: 772px) {
+    .content-right {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .content-left {
+        width: 100%;
+    }
+    .footer-content {
+        display: block!important;
+    }
+}
+
+
+/* // Medium devices (tablets, 768px and up) */
+
+@media (max-width: 992px) {
+    .news-top,
+    .news-bot {
+        padding: 70px!important;
+    }
+    .img-news {
+        width: 100%;
+    }
+    .img-news img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+    .des-news {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+    .col-4 {
+        width: 50%;
+    }
+    .col-3 {
+        width: 50%;
+    }
+}
+
+
+/* // Extra large devices (large desktops, 1200px and up) */
+
+@media (max-width: 1200px) {
+    .containner {
+        max-width: 900px;
+    }
+}

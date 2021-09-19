@@ -1,0 +1,37 @@
+.title-procedure {
+    padding: 115px 0px 35px;
+    text-align: center;
+}
+
+.title-procedure-top {
+    font-family: "NotoSansMemium", sans-serif;
+    font-size: 35px;
+}
+
+.title-procedure-bot {
+    font-family: "NotoSansLight", sans-serif;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.chocie {
+    text-align: center;
+    background-color: #f9fafc;
+    padding: 55px 0px 40px;
+}
+
+.step {
+    margin-top: 30px;
+}
+
+.name-step {
+    color: var(--orange-color);
+    font-family: "NotoSansMemium", sans-serif;
+    font-size: 24px;
+}
+
+.content-step {
+    margin-top: 15px;
+    font-family: "NotoSansLight", sans-serif;
+    font-size: 18px;
+}

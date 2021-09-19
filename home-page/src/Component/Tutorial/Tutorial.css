@@ -1,0 +1,47 @@
+.tutorial {
+    background-color: #f9f9f9;
+    padding-top: 80px;
+}
+
+.title {
+    color: var(--orange-color);
+    font-size: 16px;
+    font-family: "Montsrrat", sans-serif;
+    text-transform: uppercase;
+}
+
+.sumary {
+    font-family: "NotoSansMemium", sans-serif;
+    font-size: 35px;
+    margin-top: 15px;
+}
+
+.sumary-light {
+    font-family: "NotoSansLight", sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.tutorial-content {
+    margin-top: 20px;
+}
+
+.img-tutorial {
+    position: relative;
+}
+
+.cap-content {
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+
+.cap-top {
+    font-family: "NotoSansLight", sans-serif;
+    font-size: 16px;
+}
+
+.cap-bot {
+    font-family: "NotoSansMemium", sans-serif;
+    font-size: 30px;
+}
